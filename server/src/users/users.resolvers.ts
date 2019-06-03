@@ -3,7 +3,7 @@ import { CreateUserInput } from 'src/graphql';
 import { User } from './user';
 import { UsersService } from './users.service';
 
-@Resolver()
+ @Resolver()
 export class UsersResolvers {
   constructor(
     private readonly usersService: UsersService
