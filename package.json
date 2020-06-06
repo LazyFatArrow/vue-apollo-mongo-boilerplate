@@ -15,7 +15,7 @@
     "start": "node build/index"
   },
   "dependencies": {
-    "apollo-server": "^2.3.1",
+    "apollo-server": "^2.14.2",
     "apollo-utilities": "^1.1.2",
     "dotenv": "^6.2.0",
     "dotenv-expand": "^4.2.0",
