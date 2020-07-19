@@ -22,7 +22,7 @@
     "graphql": "^14.0.2",
     "graphql-tag": "^2.9.0",
     "merge-graphql-schemas": "^1.5.8",
-    "mongoose": "^5.4.3",
+    "mongoose": "^5.7.5",
     "vue": "^2.5.22",
     "vue-apollo": "^3.0.0-beta.11",
     "vue-router": "^3.0.1"
